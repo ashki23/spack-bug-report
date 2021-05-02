@@ -1,0 +1,14 @@
+==> intel-oneapi-mpi: Executing phase: 'install'
+==> [2021-05-02-16:05:10.919603] 'bash' 'l_mpi_oneapi_p_2021.2.0.215_offline.sh' '-s' '-a' '-s' '--action' 'install' '--eula' 'accept' '--install-dir' '/opt/spack/opt/spack/linux-ubuntu20.04-skylake/gcc-9.3.0/intel-oneapi-mpi-2021.2.0-rqugz4fqpfodgingbxo23c4vllkzwer2'
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-root'
+Checking system requirements...
+Done.
+Wait while the installer is preparing...
+Done.
+Launching the installer...
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-root'
+Cannot change installation directory to '/opt/spack/opt/spack/linux-ubuntu20.04-skylake/gcc-9.3.0/intel-oneapi-mpi-2021.2.0-rqugz4fqpfodgingbxo23c4vllkzwer2', because it is locked to '/opt/spack/opt/spack/linux-ubuntu20.04-skylake/gcc-9.3.0/intel-oneapi-compilers-2021.2.0-amzdrapcuhqki7sablqupabz4e7yrdc3'.
+Installer has failed.
+The application has encountered errors which caused failure. For more details, click on the log link at the bottom of the dialog.
+Installer completed with code 1
+Log file: /tmp/root/intel_oneapi_installer/2021.05.02.16.05.12.295/installer.install.intel.oneapi.lin.mpi.product,v=2021.2.0-215.2021.05.02.16.05.13.186784.log
